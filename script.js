@@ -1,4 +1,4 @@
-const imgLoad = document.querySelectorAll("img[data-srcg]");
+const imgLoad = document.querySelectorAll("img[data-src]");
 
 imgLoad.forEach((img) => {
   img.addEventListener("load", onLoadChange, { once: true });
