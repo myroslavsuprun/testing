@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "lodash.throttle": "^4.1.1",
+    "npm": "^8.19.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "scripts": {
+    "start": "npx parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myroslavsuprun/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myroslavsuprun/testing/issues"
+  },
+  "homepage": "https://github.com/myroslavsuprun/testing#readme"
+}

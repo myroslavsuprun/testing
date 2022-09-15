@@ -1,0 +1,22 @@
+.feedback-form {
+  width: 480px;
+}
+
+.feedback-form > label {
+  width: 100%;
+  flex-direction: column;
+  margin-bottom: 16px;
+  padding: 8px;
+  display: flex;
+}
+
+.feedback-form input, .feedback-form textarea {
+  font: inherit;
+  padding: 8px;
+}
+
+.feedback-form textarea {
+  resize: none;
+}
+
+/*# sourceMappingURL=index.1303bb05.css.map */
