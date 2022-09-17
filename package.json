@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "npx parcel src/index.html --open --port 5343" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myroslavsuprun/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myroslavsuprun/testing/issues"
+  },
+  "homepage": "https://github.com/myroslavsuprun/testing#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
