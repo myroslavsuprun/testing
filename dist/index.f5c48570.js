@@ -532,6 +532,14 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"8ZNvh":[function(require,module,exports) {
+const isSuccess = Math.random() > 0.5;
+console.log(isSuccess);
+const fetchUser = (user)=>{
+    return promise = new Promise((resolve, reject)=>{
+        console.log("Adding data for the user:", user);
+        if (isSuccess) resolve("Succesful addition of the user");
+    });
+};
 
 },{}]},["4qavH","8ZNvh"], "8ZNvh", "parcelRequire8bb2")
 

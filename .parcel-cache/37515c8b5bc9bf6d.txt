@@ -28,7 +28,7 @@
 64D:\Code\testing\node_modules\@parcel\utils\src\parseCSSImport.js121436361000000000 0
 78D:\Code\testing\node_modules\htmlnano\lib\modules\minifyConditionalComments.js121436361000000000 0
 62D:\Code\testing\node_modules\@parcel\workers\lib\WorkerFarm.js121436361000000000 0
-20D:\Code\testing\dist133079007040848534 1
+20D:\Code\testing\dist133079028945715774 1
 67D:\Code\testing\node_modules\terser\lib\utils\first_in_statement.js121436361000000000 0
 94D:\Code\testing\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs121436361000000000 0
 60D:\Code\testing\node_modules\caniuse-lite\data\regions\RE.js121436361000000000 0
@@ -40,7 +40,7 @@
 49D:\Code\testing\node_modules\terser\lib\output.js121436361000000000 0
 82D:\Code\testing\node_modules\@parcel\core\test\fixtures\config-malformed\.parcelrc121436361000000000 0
 50D:\Code\testing\node_modules\resolve-from\index.js131506335850000000 0
-29D:\Code\testing\src\script.js133079006989686362 0
+29D:\Code\testing\src\script.js133079028944691596 0
 75D:\Code\testing\node_modules\@swc\helpers\lib\_class_private_method_init.js121436361000000000 0
 33D:\Code\testing\node_modules\csso133077461754004432 1
 60D:\Code\testing\node_modules\caniuse-lite\data\regions\BO.js121436361000000000 0
@@ -67,7 +67,7 @@
 46D:\Code\testing\node_modules\parcel\lib\bin.js121436361000000000 0
 47D:\Code\testing\node_modules\boolbase\README.md130369490040000000 0
 56D:\Code\testing\node_modules\domutils\lib\index.d.ts.map121436361000000000 0
-30D:\Code\testing\src\styles.css133077460756616417 0
+30D:\Code\testing\src\styles.css133079015091895278 0
 52D:\Code\testing\node_modules\csso\lib\clean\index.js121436361000000000 0
 74D:\Code\testing\node_modules\msgpackr-extract\src\.vs\ProjectSettings.json121436361000000000 0
 51D:\Code\testing\node_modules\term-size\vendor\macos133077461708538046 1
@@ -1244,7 +1244,7 @@
 70D:\Code\testing\node_modules\svgo\plugins\removeUnknownsAndDefaults.js121436361000000000 0
 105D:\Code\testing\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback133077461731233165 1
 45D:\Code\testing\node_modules\semver\range.bnf121436361000000000 0
-31D:\Code\testing\dist\index.html133079007040848534 0
+31D:\Code\testing\dist\index.html133079028825518534 0
 59D:\Code\testing\node_modules\svgo\plugins\removeUnusedNS.js121436361000000000 0
 55D:\Code\testing\node_modules\@parcel\utils\package.json133077461752844190 0
 51D:\Code\testing\node_modules\@parcel\css\types.d.ts121436361000000000 0
@@ -4181,7 +4181,7 @@
 40D:\Code\testing\node_modules\.bin\terser133077461755614803 0
 44D:\Code\testing\node_modules\.bin\terser.cmd133077461755614803 0
 44D:\Code\testing\node_modules\.bin\terser.ps1133077461755614803 0
-39D:\Code\testing\dist\index.4d663569.css133079006991737381 0
-43D:\Code\testing\dist\index.4d663569.css.map133079006991757369 0
-38D:\Code\testing\dist\index.f5c48570.js133079006992087442 0
-42D:\Code\testing\dist\index.f5c48570.js.map133079006992107441 0
+39D:\Code\testing\dist\index.4d663569.css133079028824701654 0
+43D:\Code\testing\dist\index.4d663569.css.map133079028824712236 0
+38D:\Code\testing\dist\index.f5c48570.js133079028945685767 0
+42D:\Code\testing\dist\index.f5c48570.js.map133079028945705772 0
